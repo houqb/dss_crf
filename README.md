@@ -1,5 +1,8 @@
 # dss_crf
 
+The original version of this code can be found [here](https://github.com/lucasb-eyer/pydensecrf.git).
+Notice that please provide a link to this project as a footnote or a citation if you plan to use it.
+
 Setup
 ```
 sudo python setup.py install
